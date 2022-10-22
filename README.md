@@ -69,20 +69,7 @@ Yarn
   npm install --global yarn
   ```
 
-### Development
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/supabase-community/supabase-sql.git
-   ```
-2. Install NPM packages
-   ```sh
-   yarn install
-   ```
-3. Run Development instance
-   ```sh
-   yarn dev
-   ```
 
 ## ➕ Contributing
 
